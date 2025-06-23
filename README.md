@@ -23,6 +23,8 @@ This project was developed with the following technologies:
 
 For Professor Danielle's Web Design course, from IFRN/CNAT, a fictitious blog was developed whose content is based on book reviews and other related topics. This project required the design of at least three interfaces in Figma and their subsequent development using HTML and CSS.
 
+<a href="(https://www.figma.com/design/nq1RGbOkugJ7fe4gySD2gS/projeto_interface?node-id=0-1&p=f&t=OVGOtNoHheuzNyyB-0)">Project's design on Figma</a>
+
 ---
 
 by Patricia Melo
@@ -59,6 +61,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 Para a disciplina de Web Design da professora Danielle, do IFRN/CNAT, foi desenvolvido um blog fictício cujo conteúdo é baseado em resenhas de livros e outros assuntos correlatos. A atividade em questão pedia o design de pelo menos três interfaces no Figma e seu posterior desenvolvimento utilizando HTML e CSS. 
 
+<a href="(https://www.figma.com/design/nq1RGbOkugJ7fe4gySD2gS/projeto_interface?node-id=0-1&p=f&t=OVGOtNoHheuzNyyB-0)">Design do projeto no Figma</a>
 
 ---
 
