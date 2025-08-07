@@ -249,3 +249,12 @@ form {
 input:focus, textarea:focus {
   outline: 1px solid #B99470;
 }
+
+#videos-parceiros {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+#videos-parceiros iframe {
+  scale: .8;
+}
