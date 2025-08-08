@@ -180,6 +180,7 @@ footer section {
   display: flex;
   flex-direction: column;
   align-items: center;
+  width: 946px;
 }
 
 form {
@@ -278,7 +279,7 @@ textarea:focus {
   line-height: 1rem;
 }
 
-#videos-parceiros { 
+#videos-parceiros {
   width: 946px;
   height: 700px;
 }
