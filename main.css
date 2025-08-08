@@ -30,7 +30,7 @@ a:visited {
 }
 
 header ul a:hover {
-  color: #5F6F52;
+  color: #5f6f52;
   font-weight: 500;
 }
 
@@ -161,7 +161,8 @@ footer {
   font-family: "Roboto", sans-serif;
 }
 
-footer span, footer section {
+footer span,
+footer section {
   padding-top: 17px;
   cursor: pointer;
 }
@@ -174,8 +175,6 @@ footer section {
   display: flex;
   gap: 12px;
 }
-
-/* contato.html */
 
 .contato {
   display: flex;
@@ -190,7 +189,9 @@ form {
   gap: 10px;
 }
 
-.nome, .email, .assunto {
+.nome,
+.email,
+.assunto {
   width: 400px;
   height: 30px;
   background-color: #f2f2f2;
@@ -200,11 +201,16 @@ form {
   font-size: 16px;
 }
 
-.nome, .email, .assunto {
+.nome,
+.email,
+.assunto {
   padding-left: 47px;
 }
 
-.nome, .email, .assunto, .mensagem {
+.nome,
+.email,
+.assunto,
+.mensagem {
   border: none;
 }
 
@@ -238,7 +244,7 @@ form {
   border: none;
   height: 30px;
   color: white;
-  background-color: #5F6F52;
+  background-color: #5f6f52;
 }
 
 .enviar:hover {
@@ -246,15 +252,24 @@ form {
   cursor: pointer;
 }
 
-input:focus, textarea:focus {
-  outline: 1px solid #B99470;
+input:focus,
+textarea:focus {
+  outline: 1px solid #b99470;
 }
 
-#videos-parceiros {
+#videos-parceiros { 
+  width: 946px;
+  height: 700px;
+}
+
+#videos-parceiros section {
   display: flex;
+  flex-direction: row;
   flex-wrap: wrap;
+  justify-content: center;
+  gap: 1rem;
 }
 
 #videos-parceiros iframe {
-  scale: .8;
+  flex-basis: 40%;
 }
