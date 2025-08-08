@@ -257,6 +257,27 @@ textarea:focus {
   outline: 1px solid #b99470;
 }
 
+#quem-escreve {
+  width: 946px;
+  display: flex;
+  flex-direction: column;
+  height: 650px;
+}
+
+#quem-escreve section {
+  display: flex;
+  flex-direction: column;
+}
+
+#quem-escreve section img {
+  margin: 0 auto;
+}
+
+#quem-escreve section p {
+  width: 50rem;
+  line-height: 1rem;
+}
+
 #videos-parceiros { 
   width: 946px;
   height: 700px;
@@ -273,3 +294,5 @@ textarea:focus {
 #videos-parceiros iframe {
   flex-basis: 40%;
 }
+
+#estante
