@@ -274,7 +274,7 @@ textarea:focus {
 }
 
 #quem-escreve section p {
-  width: 50rem;
+  width: 45rem;
   line-height: 1rem;
 }
 
@@ -295,4 +295,22 @@ textarea:focus {
   flex-basis: 40%;
 }
 
-#estante
+#estante {
+  width: 946px;
+  height: 330px;
+}
+
+#estante section {
+  display: flex;
+  justify-content: center;
+}
+
+#estante div {
+  background-color: white;
+  align-self: flex-start;
+  width: 800px;
+  display: flex;
+  flex-direction: column;
+  width: 360px;
+  gap: 1rem;
+}
