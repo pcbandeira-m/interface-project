@@ -94,13 +94,14 @@ h3 {
 
 article p,
 aside ul {
-  font-size: 12px;
+  font-size: 14px;
+  line-height: 18px;
 }
 
 article {
   background-color: #fff;
   width: 646px;
-  height: 1600px;
+  height: 2032px;
   align-items: center;
   padding-top: 35px;
   padding-left: 30px;
@@ -119,7 +120,7 @@ aside {
   padding-top: 34px;
   display: flex;
   flex-direction: column;
-  align-items: center;
+  padding-left: 40px;
   gap: 30px;
 }
 
@@ -145,7 +146,6 @@ h3 {
 .pesquisa-por-genero ul {
   display: flex;
   flex-direction: column;
-  align-items: center;
 }
 
 footer {
@@ -262,7 +262,7 @@ textarea:focus {
   width: 946px;
   display: flex;
   flex-direction: column;
-  height: 650px;
+  height: 700px;
 }
 
 #quem-escreve section {
@@ -275,8 +275,8 @@ textarea:focus {
 }
 
 #quem-escreve section p {
-  width: 45rem;
-  line-height: 1rem;
+  width: 42rem;
+  line-height: 18px;
 }
 
 #videos-parceiros {
