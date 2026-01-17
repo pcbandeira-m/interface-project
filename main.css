@@ -34,6 +34,15 @@ header ul a:hover {
   font-weight: 500;
 }
 
+.language-toggle {
+  display: flex;
+  gap: 5px;
+}
+
+.language-toggle img {
+  width: 20px;
+}
+
 h1 {
   font-family: "Megrim", system-ui;
   font-size: 96px;
