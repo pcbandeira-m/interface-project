@@ -116,7 +116,7 @@ article img {
 aside {
   background-color: #fff;
   width: 284px;
-  height: 628px;
+  height: 736px;
   padding-top: 34px;
   display: flex;
   flex-direction: column;
@@ -139,6 +139,16 @@ aside ul li:hover {
   cursor: pointer;
 }
 
+.redes-sociais ul {
+  display: flex;
+  flex-direction: row;
+  padding-top: 10px;
+}
+
+.redes-sociais img {
+  width: 40px;
+}
+
 h3 {
   font-size: 16px;
 }
@@ -154,26 +164,16 @@ footer {
   height: 70px;
   margin-top: 15px;
   display: flex;
+  align-content: center;
   justify-content: center;
-  gap: 316px;
 
   font-size: 14px;
   font-family: "Roboto", sans-serif;
 }
 
-footer span,
-footer section {
+footer span {
   padding-top: 17px;
   cursor: pointer;
-}
-
-footer span {
-  padding-left: 100px;
-}
-
-footer section {
-  display: flex;
-  gap: 12px;
 }
 
 .contato {
@@ -181,6 +181,7 @@ footer section {
   flex-direction: column;
   align-items: center;
   width: 946px;
+  height: 626px;
 }
 
 form {
